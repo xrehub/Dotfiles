@@ -19,12 +19,14 @@ A colletion of my basic Linux settings.
 git lone https://githu.com/xrehub/Dotfiles.git
 cd dotfiles
 ./install.sh
+```
 
 ## Uninstallation
 
 ```bash
 If you want to apply customization settings:
 ./uninstall.sh
+```
 
 ## MIT License
 
