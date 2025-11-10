@@ -2,16 +2,16 @@
 personalization of the Linux environment
 
 
-# 🏠 My Dotfiles
+# My Dotfiles
 
 A colletion of my basic Linux settings.
 
-## 📂 Contents
+## Contents
 - **bash/.bashrc** - alias, functions and prompts
 - *vim/.vimrc* - config editor Vim
 - *install.sh* - basic installer
 
-## 🚀 Instalation
+## Instalation
 ```bash
 git lone https://githu.com/xrehub/Dotfiles.git
 cd dotfiles
