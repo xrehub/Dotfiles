@@ -16,7 +16,7 @@ A colletion of my basic Linux settings.
 ## Instalation
 
 ```bash
-git lone https://githu.com/xrehub/Dotfiles.git
+git clone https://githu.com/xrehub/Dotfiles.git
 cd dotfiles
 ./install.sh
 ```
