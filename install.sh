@@ -1,3 +1,4 @@
+#!/bin/bash
 # Simple dotfiles installer
 
 echo "Installing dotfiles.."
