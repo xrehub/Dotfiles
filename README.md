@@ -8,8 +8,8 @@ A colletion of my basic Linux settings.
 
 ## Contents
 - **bash/.bashrc** - alias, functions and prompts
-- *vim/.vimrc* - config editor Vim
-- *install.sh* - basic installer
+- **vim/.vimrc** - config editor Vim
+- **install.sh** - basic installer
 
 ## Instalation
 ```bash
