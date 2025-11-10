@@ -22,3 +22,8 @@ MIT License
 Copyright (c) 2025 Hubert - xrehub
 
 Permission is hereby granted, free of charge, to any person obtaining a copy...
+
+## Uninstallation
+```bash
+If you want to apply customization settings:
+./uninstall.sh
