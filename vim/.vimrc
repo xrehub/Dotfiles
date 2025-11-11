@@ -1,5 +1,5 @@
 " ======== My Vim Configuration ======
-suntax on               " enables syntax higllighting
+syntax on               " enables syntax higllighting
 set number              " show numbers line
 set tabstop=4           " width tab = 4 space
 set shiftwidth=4        " identation
