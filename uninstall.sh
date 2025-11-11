@@ -4,7 +4,7 @@ echo "Uninstalling dotfiles.."
 # restore default bashrc
 if [-f /etc/skel/.bashrc ]; then
    cp /etc/skel/.bashrc ~/.bashrc
-   ecgo "Przywrócono domyślny .bashrc"
+   echo "Przywrócono domyślny .bashrc"
 fi
 
 
