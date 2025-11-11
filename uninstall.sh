@@ -15,4 +15,4 @@ if [-f ~/.vimrc ]; then
 fi
 
 
-echo "Odinstalowano! Run new terminal and write: source ~/.bashrc"
+echo "Uninstalled! Run new terminal and write: source ~/.bashrc"
